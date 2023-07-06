@@ -21,8 +21,8 @@
   <img src='https://img.shields.io/badge/Redux-v8.0.2-764ABC?logo=Redux'/> 
   <img src='https://img.shields.io/badge/Redux/toolkit-v1.8.3-764ABC?logo=Redux'/> 
   <img src='https://img.shields.io/badge/React_Query-v3.39.1-FF4154?logo=React Query'/>
-  ![React](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 </p>
+![React](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=jeelly&&theme=xcode)](https://github.com/jeelly)
 
