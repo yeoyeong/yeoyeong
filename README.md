@@ -33,6 +33,8 @@
 * * *
 
 > 현재 진행중인 프로젝트 <br/>
+rank-check-fe
+> 완료 된 프로젝트 <br/>
 [Weat](https://github.com/jeelly/weat)
 
 <!--
