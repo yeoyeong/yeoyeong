@@ -12,6 +12,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23323330.svg?style=for-the-badge&logo=HTML5&logoColor=%E34F26)
 ![CSS](https://img.shields.io/badge/CSS3-%23323330.svg?style=for-the-badge&logo=CSS3&logoColor=%1572B6)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![ts](https://badgen.net/badge/Built%20With/TypeScript/blue)
 
 <h3 align="left">Tools:</h3>
 <p align="left">
@@ -20,6 +21,7 @@
   <img src='https://img.shields.io/badge/Redux-v8.0.2-764ABC?logo=Redux'/> 
   <img src='https://img.shields.io/badge/Redux/toolkit-v1.8.3-764ABC?logo=Redux'/> 
   <img src='https://img.shields.io/badge/React_Query-v3.39.1-FF4154?logo=React Query'/>
+  ![React](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 </p>
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=jeelly&&theme=xcode)](https://github.com/jeelly)
